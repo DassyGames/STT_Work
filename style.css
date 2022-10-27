@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 200px;
+    padding-left: 47px;
+}
+.top{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.555);
+}
+.list_txt{
+    color: white;
+    padding: 28px;
+    list-style-type: none;
+    font-family: "Kanit";
+
+}
+.list{
+    display: flex;
+    padding-left: 250px; 
+}
+body{
+    background-image: url(https://thumb.tildacdn.com/tild6537-3030-4164-a631-313335613038/-/format/webp/2001_i121_016_isomet.jpg);
+    background-size: 100%;
+}
+
+.centerText{
+    color: white;
+    font-family: Kanit;
+    padding-left: 135px;
+    list-style: none;
+    font-size: 48px;
+    padding-top: 30px;
+    padding-left: 107px;
+}
+
+.CenterText1{
+    color: white;
+    font-size: 20px;
+    padding-left: 107px;
+    list-style-type: none;
+    padding-top: 19px;
+}
+.CenterText2{
+    padding-left: 107px;
+    padding-top: 110px;
+}
+
+.CT2_2{
+    padding-left: 100px;
+}
